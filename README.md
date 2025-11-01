@@ -130,7 +130,7 @@ Server: nginx/1.24.0 (Ubuntu)
 
 ---
 ## 🧾 Output Screenshots
-![WhatsApp Image 2025-10-29 at 22 41 37_8d0bbab2](https://github.com/user-attachments/assets/5a589eda-acb4-4bc9-ba78-d2bd861431f5)
+<img width="1906" height="949" alt="image" src="https://github.com/user-attachments/assets/2c60ad46-870b-457d-9808-7e2854393a9e" />
 
 
 
@@ -138,7 +138,6 @@ Server: nginx/1.24.0 (Ubuntu)
 
 **Sravani Martha**  
 Ansible Automation Project 
-📧 [sravanimartha4@gmail.com](mailto:sravanimartha4@gmail.com)
 
 ---
 
